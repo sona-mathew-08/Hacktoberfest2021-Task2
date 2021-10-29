@@ -1,8 +1,19 @@
+body{
+    background-color: #FF5C58;
+}
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
     font-size: 10px;
+}
+.prof{
+    height:300px;
+    width: 50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+   
 }
